@@ -1,0 +1,90 @@
+<head>
+<title>Dustin's Notes</title>
+</head>
+<br><h1>HTML is what holds the web together.<h1>
+  
+<br>
+<br>It stands for Hypertext Markup Language.
+<br>Links are called hyperlinks.
+<br>Web invented in 1990s and has <b><em>30 billion pages.</b></em>
+<br>
+<br>
+
+
+<b>Anything can exist on the web!</b>
+  
+
+<p>The Major pieces of the web are
+<br>You-computer and browser-Internet-servers.
+<br>Http is how it all happens.
+
+<br>HTML docs are the heart of the web.
+<br>They are made up of :
+<br>Text content 
+<br>Markup(what it looks like)
+<br><img src="http://pre14.deviantart.net/4fc2/th/pre/f/2010/031/2/b/borderlands_explosive_by_deviantsnark.jpg"" alt=References to other documents(images&videos)">
+<br><a href=www.udacity.com>Links to other pages.</a></p> 
+
+
+
+<p>
+<name>Markup contents</name>
+<br>Opening tag             Closing tag 
+<br><b>Only indifference is that closing tag has slash in it.</b>
+<br><em>Entire group is called an element</em> 
+<br>
+<br><b>BoldTag</b>
+B tag. Makes whatever is inside bold.
+<br>
+<br>
+
+<br><em>itAlicizes
+<br>Em tag makes whatever is inside italicized.
+
+No end tag will apply the effect to string until it's closed.</em>
+<br>
+<br>
+<br><a>anchor</a>
+<br>Anchors make links
+<a href="www.reddit.com">_derp</a>
+Href is attribute name and
+www.reddit.com is the value.
+Derp is the link to reddit.com
+
+<br><b>Imagetag</b>
+<br>Serves up images. It has no closing tag because it is a void tag. 
+<img src="data:image/png;base64,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" alt="text">
+<br>Alt is required for broken requests and blind people.
+<br>
+<br>Line break<br>
+Stands for break also a void tag.
+<br>Break tag puts it on different line breaks.
+<br>
+<br>
+<br>
+Multiple line breaks will work.
+<br>
+<br> 
+That makes it three lines down because of the three line breaks.
+<br>
+<br>
+<br>Paragraph tag
+<br>P tag has content. <strong>Therefore it is not a void tag</strong>. <br>So it must have a closing tag.       
+<br>
+<br> Line break is inline. It's only function is to end a line of text.
+<br><p> P tag is different. P tag makes an invisible box around the text that follow.
+<br>This box can have height and width.
+<br>Difference between inline and block elements will grow later in course.
+<br>
+<br>Inline elements learned so far are 
+a,b,em,img,br,span,strong.
+<br>Block elements learned so far are
+p,div,form.
+<br>
+<br>Container elements Span and Div
+<br><span>Span</span> is <em>inline.</em>.
+<br>and
+<br>Div</div> is <em>block</em> element.
+<br><strong>It's the only difference.</strong> <br>They contain their content. 
+<br>That is their use.</p>
+
